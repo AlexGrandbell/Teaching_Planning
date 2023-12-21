@@ -1,0 +1,8 @@
+# ninja log v5
+5	656	1700653603100809679	CMakeFiles/Teaching_Planning.dir/main.cpp.o	6602317cd893a792
+725	825	1700653603274179756	Teaching_Planning	abc665c4c1e355c5
+0	54	1702988151601688803	build.ninja	28c35f398793e61
+6	655	1700653603099178662	CMakeFiles/Teaching_Planning.dir/Menu.cpp.o	e140d955d206191c
+6	656	1700653603099183371	CMakeFiles/Teaching_Planning.dir/Course.cpp.o	d943c373be6e5193
+6	725	1700653603172556306	CMakeFiles/Teaching_Planning.dir/CourseManagement.cpp.o	4a7a80b29616c22d
+6	656	1700653603101418086	CMakeFiles/Teaching_Planning.dir/Tool.cpp.o	cb9f013759631e67
