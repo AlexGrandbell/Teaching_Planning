@@ -11,6 +11,6 @@
 -- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done (0.4s)
+-- Configuring done (0.5s)
 -- Generating done (0.0s)
 -- Build files have been written to: /Users/shenjiarui/Documents/我的文档/武汉理工大学/正在学/数据结构A/数据结构实验/实验源代码/实验三-树和图及其应用/Teaching_Planning/cmake-build-debug
